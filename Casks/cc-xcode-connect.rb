@@ -1,6 +1,6 @@
 cask "cc-xcode-connect" do
-  version "0.0.2"
-  sha256 "9595f07014b21ab143176a29875e0ffdd0489c35d7c032bf33993159096aec11"
+  version "0.0.3"
+  sha256 "c949bf8eed775692c70ad8dac245a9b49cf5c29c34d8812bf7a7317dfba3867c"
 
   url "https://github.com/GLinnik21/CCXcodeConnect/releases/download/#{version}/CCXcodeConnect-#{version}-macos.zip"
   name "CC Xcode Connect"
